@@ -1,0 +1,6 @@
+{
+  "name": "Perpustakaan Pintar - Sistem Peminjaman Buku",
+  "description": "Aplikasi manajemen perpustakaan sekolah untuk peminjaman dan pengembalian buku paket berbasis Google Spreadsheet dan Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
